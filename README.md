@@ -1,6 +1,6 @@
 # Pokédex
 
-<p>Acesse o projeto <a href=" ">aqui</a></p>
+<p>Acesse o projeto <a href="https://crfernandes.github.io/pokedex/">aqui</a></p>
 
 ## Descrição
 
